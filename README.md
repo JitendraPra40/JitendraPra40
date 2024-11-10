@@ -1,6 +1,3 @@
-Here’s a polished and engaging GitHub profile README for you:
-
----
 
 👋 **Hello, I'm Jitendra Prajapati!**  
 I'm passionate about **Data Science**, **Machine Learning**, and **IoT projects** that make a real-world impact. With a background in Computer Science and hands-on experience in **full-stack development** and **IoT**, I'm on a journey to combine these skills with **Data Science** to build innovative solutions.
