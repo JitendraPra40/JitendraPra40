@@ -7,10 +7,10 @@ I'm passionate about **Data Science**, **Machine Learning**, and **IoT projects*
 - Diving into **advanced data science** techniques to refine my analytical skills.
 
 ### 🛠️ Projects I’m Proud Of
-- **IoT Street Light Project** – Developed an ESP32-powered system that dynamically adjusts street light intensity based on vehicle detection. It includes a web app for remote monitoring, energy analytics, and scheduling.
+- **Bangalore Home Price Prediction** – This project is a web-based application that predicts the price of houses in Bangalore based on user inputs such as area, BHK, bathrooms, and location. It uses a Linear Regression model with an accuracy score of 84%. The front-end is built with HTML, CSS, and JavaScript, while the back-end utilizes Python and Flask.
 - **Preliminary Disease Prediction** – Leveraged machine learning algorithms to create a model that predicts common diseases based on symptoms.
-- **Portfolio Website** – Built a responsive, interactive website to showcase my work and skills.
-
+- **Tableau** – [Built a responsive, interactive website to showcase my work and skills.
+](https://public.tableau.com/app/profile/jitendra.prajapati6443/vizzes)
 ### 💡 Looking to Collaborate
 I'm open to projects involving:
 - **Data Science and Machine Learning**
