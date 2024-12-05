@@ -17,7 +17,7 @@ I'm passionate about **Data Science**, **Machine Learning**, and **Data Analytic
 - I am currently undergoing training in Data Analytics at Ants Skill Varsity, powered by **NASSCOM**. This training program is equipping me with essential skills in data analysis, visualization, and interpretation, empowering me to analyze complex datasets and extract actionable insights. Through hands-on experience with various tools and techniques, I am enhancing my ability to make data-driven decisions in real-world scenarios.
   
 ### 🛠️ Projects I’m Proud Of
-- **Bangalore Home Price Prediction** – This project is a web-based application that predicts the price of houses in Bangalore based on user inputs such as area, BHK, bathrooms, and location. It uses a Linear Regression model with an accuracy score of 84%. The front-end is built with HTML, CSS, and JavaScript, while the back-end utilizes Python and Flask.
+- **Bangalore Home Price Prediction** – This project is a web-based application that predicts the price of houses in Bangalore based on user inputs such as area, BHK, bathrooms, and location. It uses a **Linear Regression model with an accuracy score of 84%.** The front-end is built with HTML, CSS, and JavaScript, while the back-end utilizes Python and Flask.
 - **Preliminary Disease Prediction** – Leveraged machine learning algorithms to create a model that predicts common diseases based on symptoms.
 - **Tableau** – [Data Analytics, interactive data analysis Dashboard to showcase my work and skills in Tableau.
 ](https://public.tableau.com/app/profile/jitendra.prajapati6443/vizzes)
