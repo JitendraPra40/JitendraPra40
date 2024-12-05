@@ -5,7 +5,7 @@ I'm passionate about **Data Science**, **Machine Learning**, and **Data Analytic
 ### 💻 Skills
 - **Languages:** Python, JavaScript, SQL, HTML/CSS
 - **Frameworks:** React.js, Bootstrap, Flask, Streamlit
-- **Tools:** MySQL, VS Code, Tableau, Power BI Advanced Excel, GIT
+- **Tools:** MySQL, VS Code, Tableau, Power BI, Advanced Excel, GIT
 - **Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn
 
 ### 📖 Certifications
