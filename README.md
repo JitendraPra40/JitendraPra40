@@ -10,8 +10,8 @@ I'm passionate about **Data Science**, **Machine Learning**, and **Data Analytic
 
 ### 📖 Certifications
 - **Python Essentials 1** (Cisco Networking Academy) - [PCEP Certified](https://drive.google.com/file/d/1vZZoU7CnaldYATEbj0ELcuFVDqFnLu7o/view?usp=sharing)
-- **Introduction to Oracle:** SQL (Infosys Springboard) - [Certified)](https://drive.google.com/file/d/1zQG27xC0SCTqRISiEMbXRkLeCfb2Tz9_/view?usp=sharing)
-- **NumPy and Pandas Python** (Infosys Springboard) - [Certified)](https://drive.google.com/file/d/1Vu5ZUuCUp8L-w-K_4J4TU124abvMbY_x/view?usp=sharing)
+- **Introduction to Oracle:** SQL (Infosys Springboard) - [Certified](https://drive.google.com/file/d/1zQG27xC0SCTqRISiEMbXRkLeCfb2Tz9_/view?usp=sharing)
+- **NumPy and Pandas Python** (Infosys Springboard) - [Certified](https://drive.google.com/file/d/1Vu5ZUuCUp8L-w-K_4J4TU124abvMbY_x/view?usp=sharing)
 
 ### 🌱 Currently Learning
 - I am currently undergoing training in Data Analytics at Ants Skill Varsity, powered by **NASSCOM**. This training program is equipping me with essential skills in data analysis, visualization, and interpretation, empowering me to analyze complex datasets and extract actionable insights. Through hands-on experience with various tools and techniques, I am enhancing my ability to make data-driven decisions in real-world scenarios.
