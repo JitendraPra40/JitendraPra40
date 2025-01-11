@@ -43,5 +43,5 @@ I'm open to projects involving:
 - **Phone:** +91 8707253755
 
 ### ⚡ Fun Fact
-I have a unique combination of skills from **front-end development** to **machine learning**, and I enjoy turning creative ideas into practical solutions.
+I have a unique combination of skills from **Python Full-Stack Web Development** to **Machine Learning**, and I enjoy turning creative ideas into practical solutions.
 
