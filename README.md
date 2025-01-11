@@ -34,9 +34,9 @@ current conditions and added a city-based search functionality.
 ](https://public.tableau.com/app/profile/jitendra.prajapati6443/vizzes)
 ### 💡 Looking to Collaborate
 I'm open to projects involving:
+- **Full-Stack Web Developement** - especially projects integrating front-end and back-end technologies
 - **Data Science and Machine Learning**
 - **Data Analytics**
-- **Web Development** – especially projects integrating front-end and back-end technologies
 
 ### 📫 How to Reach Me
 - **Email:** jitendra.pra40@gmail.com
