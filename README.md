@@ -9,6 +9,7 @@ I'm passionate about **Data Science**, **Machine Learning**, and **Data Analytic
 - **Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn
 
 ### 📖 Certifications
+- **Fundamentals of Data Analytics** (In Collaboration with JP Morgan Chase & Nasscom Foundation ) - [JP Morgan Chase & Nasscom Foundation Certified](https://drive.google.com/file/d/12fnJxN3QxJ9LYSBMl7bbKf3bxhTYTpzA/view)
 - **Python Essentials 1** (Cisco Networking Academy) - [PCEP Certified](https://drive.google.com/file/d/1vZZoU7CnaldYATEbj0ELcuFVDqFnLu7o/view?usp=sharing)
 - **Introduction to Oracle:** SQL (Infosys Springboard) - [Certified](https://drive.google.com/file/d/1zQG27xC0SCTqRISiEMbXRkLeCfb2Tz9_/view?usp=sharing)
 - **NumPy and Pandas Python** (Infosys Springboard) - [Certified](https://drive.google.com/file/d/1Vu5ZUuCUp8L-w-K_4J4TU124abvMbY_x/view?usp=sharing)
