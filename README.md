@@ -1,10 +1,10 @@
 
 👋 **Hello, I'm Jitendra Prajapati!**  
-I'm passionate about **Data Science**, **Machine Learning**, and **Data Analytics** that make a real-world impact. With a background in Computer Science and hands-on experience in **Data Analytics** and **Machine Learning**, I'm on a journey to combine these skills with **Data Science** to build innovative solutions.
+I'm passionate about **full-stack web development** **Data Science**, **Machine Learning**, and **Data Analytics** that make a real-world impact. With a background in Computer Science and hands-on experience in **Data Analytics** and **Machine Learning**, I'm on a journey to combine these skills with **Data Science** to build innovative solutions.
 
 ### 💻 Skills
-- **Languages:** Python, JavaScript, SQL, HTML/CSS
-- **Frameworks:** React.js, Bootstrap, Flask, Streamlit
+- **Languages:** Python, JavaScript, C++, C 
+- **Web Development:** HTML, CSS, React.js, Flask, Django, Bootstrap
 - **Tools:** MySQL, VS Code, Tableau, Power BI, Advanced Excel, GIT
 - **Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn
 
@@ -18,6 +18,16 @@ I'm passionate about **Data Science**, **Machine Learning**, and **Data Analytic
 - I am currently undergoing training in Data Analytics at Ants Skill Varsity, powered by **NASSCOM**. This training program is equipping me with essential skills in data analysis, visualization, and interpretation, empowering me to analyze complex datasets and extract actionable insights. Through hands-on experience with various tools and techniques, I am enhancing my ability to make data-driven decisions in real-world scenarios.
   
 ### 🛠️ Projects I’m Proud Of
+- **Gym Fitness | Web Application** - Python, Django, HTML/CSS, Bootstrap | 
+– Developed a Gym Fitness Web Application using Django, Jinja, HTML, Bootstrap, and SQLite3, featuring user
+signup and login, Authentication, membership enrollment, contact form with live location map, and attendance
+tracking.
+-**Dice Game | Web Application** - Python, Flask, HTML, CSS, JavaScript/jQuery, Bootstrap | [Link](https://roll-dice-game.onrender.com/)
+  - Developed a web-based dice game using Flask for the backend and JavaScript/jQuery for the front end, featuring dynamic popups for game status and results. Enabled live score updates, user-defined turn settings, and final results display (User Win, Computer Win, or Tie).
+-**Weather Forecast | Web Application** -React.js, OpenWeather Apis | [Link](https://weatherforecastbyjp.netlify.app/)
+- Developed a weather application using React.js and OpenWeather APIs to display real-time weather data,
+including temperature, humidity, visibility, and wind speed. Integrated dynamic weather symbols to represent
+current conditions and added a city-based search functionality.
 - **Bangalore Home Price Prediction** – This project is a web-based application that predicts the price of houses in Bangalore based on user inputs such as area, BHK, bathrooms, and location. It uses a **Linear Regression model with an accuracy score of 84%.** The front-end is built with HTML, CSS, and JavaScript, while the back-end utilizes Python and Flask.
 - **Preliminary Disease Prediction** – Leveraged machine learning algorithms to create a model that predicts common diseases based on symptoms.
 - **Tableau** – [Data Analytics, interactive data analysis Dashboard to showcase my work and skills in Tableau.
