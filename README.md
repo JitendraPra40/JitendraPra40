@@ -1,6 +1,6 @@
 
 👋 **Hello, I'm Jitendra Prajapati!**  
-I'm passionate about **full-stack web development**, **Data Science**, **Machine Learning**, and **Data Analytics** that make a real-world impact. With a background in Computer Science and hands-on experience in **python full-stack** and **Machine Learning**, I'm on a journey to combine these skills with **Data Science** to build innovative solutions.
+I'm passionate about **full-stack web development**, **Machine Learning**, and **Data Analytics** that make a real-world impact. With a background in Computer Science and hands-on experience in **python full-stack** and **Machine Learning**, I'm on a journey to combine these skills with **Data Science** to build innovative solutions.
 
 ### 💻 Skills
 - **Languages:** Python, JavaScript, C++, C 
