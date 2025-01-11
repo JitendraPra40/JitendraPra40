@@ -29,7 +29,7 @@ Developed a weather application using React.js and OpenWeather APIs to display r
 including temperature, humidity, visibility, and wind speed. Integrated dynamic weather symbols to represent
 current conditions and added a city-based search functionality.
 - **Bangalore Home Price Prediction | Machine Learning** – This project is a web-based application that predicts the price of houses in Bangalore based on user inputs such as area, BHK, bathrooms, and location. It uses a **Linear Regression model with an accuracy score of 84%.** The front-end is built with HTML, CSS, and JavaScript, while the back-end utilizes Python and Flask.
-- **Preliminary Disease Prediction | Machine Learning** – Leveraged machine learning algorithms to create a model that predicts common diseases based on symptoms.
+- **Preliminary Disease Prediction | Machine Learning** – Implemented models for Diabetes, Breast Cancer, Heart Disease, Kidney Disease, and Liver Disease, with accuracy ranging from 72.72% to 96.88%. Integrated the models into a Flask-based web application, enabling users to input diagnostic reports and receive disease predictions.
 - **Tableau** – [Data Analytics, interactive data analysis Dashboard to showcase my work and skills in Tableau.
 ](https://public.tableau.com/app/profile/jitendra.prajapati6443/vizzes)
 ### 💡 Looking to Collaborate
