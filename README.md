@@ -21,11 +21,9 @@ I'm passionate about **full-stack web development** **Data Science**, **Machine 
   
 ### 🛠️ Projects I’m Proud Of
 - **Gym Fitness | Web Application** - Python, Django, HTML/CSS, Bootstrap | 
-– Developed a Gym Fitness Web Application using Django, Jinja, HTML, Bootstrap, and SQLite3, featuring user
-signup and login, Authentication, membership enrollment, contact form with live location map, and attendance
-tracking.
+– Developed a Gym Fitness Web Application using Django, Jinja, HTML, Bootstrap, and SQLite3, featuring user signup and login, Authentication, membership enrollment, contact form with live location map, and attendance tracking.
 -**Dice Game | Web Application** - Python, Flask, HTML, CSS, JavaScript/jQuery, Bootstrap | [Link](https://roll-dice-game.onrender.com/)
-  - Developed a web-based dice game using Flask for the backend and JavaScript/jQuery for the front end, featuring dynamic popups for game status and results. Enabled live score updates, user-defined turn settings, and final results display (User Win, Computer Win, or Tie).
+- Developed a web-based dice game using Flask for the backend and JavaScript/jQuery for the front end, featuring dynamic popups for game status and results. Enabled live score updates, user-defined turn settings, and final results display (User Win, Computer Win, or Tie).
 -**Weather Forecast | Web Application** -React.js, OpenWeather Apis | [Link](https://weatherforecastbyjp.netlify.app/)
 - Developed a weather application using React.js and OpenWeather APIs to display real-time weather data,
 including temperature, humidity, visibility, and wind speed. Integrated dynamic weather symbols to represent
