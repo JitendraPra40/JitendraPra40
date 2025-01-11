@@ -5,8 +5,10 @@ I'm passionate about **full-stack web development** **Data Science**, **Machine 
 ### 💻 Skills
 - **Languages:** Python, JavaScript, C++, C 
 - **Web Development:** HTML, CSS, React.js, Flask, Django, Bootstrap
-- **Tools:** MySQL, VS Code, Tableau, Power BI, Advanced Excel, GIT
 - **Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn
+- **Database Management:** MYSQL, Oracle PL/SQL, Excel
+- **Tools:** VS Code, Git, GitHub, Firebase
+- **Data Analytics:**  Tableau, Power BI, Advanced Excel
 
 ### 📖 Certifications
 - **Fundamentals of Data Analytics** (In Collaboration with JP Morgan Chase & Nasscom Foundation ) - [JP Morgan Chase & Nasscom Foundation Certified](https://drive.google.com/file/d/12fnJxN3QxJ9LYSBMl7bbKf3bxhTYTpzA/view)
