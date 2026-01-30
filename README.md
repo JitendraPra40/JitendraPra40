@@ -1,47 +1,63 @@
-
-👋 **Hello, I'm Jitendra Prajapati!**  
-I'm passionate about **full-stack web development**, **Machine Learning**, and **Data Analytics** that make a real-world impact. With a background in Computer Science and hands-on experience in **python full-stack** and **Machine Learning**, I'm on a journey to combine these skills with **Data Science** to build innovative solutions.
-
-### 💻 Skills
-- **Languages:** Python, JavaScript, C++, C 
-- **Web Development:** HTML, CSS, React.js, Flask, Django, Bootstrap
-- **Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn
-- **Database Management:** MYSQL, Oracle PL/SQL, Excel
-- **Tools:** VS Code, Git, GitHub, Firebase
-- **Data Analytics:**  Tableau, Power BI, Advanced Excel
-
-### 📖 Certifications
-- **Fundamentals of Data Analytics** (In Collaboration with JP Morgan Chase & Nasscom Foundation ) - [JP Morgan Chase & Nasscom Foundation Certified](https://drive.google.com/file/d/12fnJxN3QxJ9LYSBMl7bbKf3bxhTYTpzA/view)
-- **Python Essentials 1** (Cisco Networking Academy) - [PCEP Certified](https://drive.google.com/file/d/1vZZoU7CnaldYATEbj0ELcuFVDqFnLu7o/view?usp=sharing)
-- **Introduction to Oracle:** SQL (Infosys Springboard) - [Certified](https://drive.google.com/file/d/1zQG27xC0SCTqRISiEMbXRkLeCfb2Tz9_/view?usp=sharing)
-- **NumPy and Pandas Python** (Infosys Springboard) - [Certified](https://drive.google.com/file/d/1Vu5ZUuCUp8L-w-K_4J4TU124abvMbY_x/view?usp=sharing)
-
-### 🌱 Currently Learning
-- I am currently undergoing training in Data Analytics at Ants Skill Varsity, powered by **NASSCOM**. This training program is equipping me with essential skills in data analysis, visualization, and interpretation, empowering me to analyze complex datasets and extract actionable insights. Through hands-on experience with various tools and techniques, I am enhancing my ability to make data-driven decisions in real-world scenarios.
-  
-### 🛠️ Projects I’m Proud Of
-- **Gym Fitness | Web Application** - Python, Django, HTML/CSS, Bootstrap | 
-Developed a Gym Fitness Web Application using Django, Jinja, HTML, Bootstrap, and SQLite3, featuring user signup and login, Authentication, membership enrollment, contact form with live location map, and attendance tracking.
-- **Dice Game | Web Application** - Python, Flask, HTML, CSS, JavaScript/jQuery, Bootstrap | [Link](https://roll-dice-game.onrender.com/)
-Developed a web-based dice game using Flask for the backend and JavaScript/jQuery for the front end, featuring dynamic popups for game status and results. Enabled live score updates, user-defined turn settings, and final results display (User Win, Computer Win, or Tie).
-- **Weather Forecast | Web Application** -React.js, OpenWeather Apis | [Link](https://weatherforecastbyjp.netlify.app/)
-Developed a weather application using React.js and OpenWeather APIs to display real-time weather data,
-including temperature, humidity, visibility, and wind speed. Integrated dynamic weather symbols to represent
-current conditions and added a city-based search functionality.
-- **Bangalore Home Price Prediction | Machine Learning** – This project is a web-based application that predicts the price of houses in Bangalore based on user inputs such as area, BHK, bathrooms, and location. It uses a **Linear Regression model with an accuracy score of 84%.** The front-end is built with HTML, CSS, and JavaScript, while the back-end utilizes Python and Flask.
-- **Preliminary Disease Prediction | Machine Learning** – Implemented models for Diabetes, Breast Cancer, Heart Disease, Kidney Disease, and Liver Disease, with accuracy ranging from 72.72% to 96.88%. Integrated the models into a Flask-based web application, enabling users to input diagnostic reports and receive disease predictions.
-- **Tableau** – [Data Analytics, interactive data analysis Dashboard to showcase my work and skills in Tableau.
-](https://public.tableau.com/app/profile/jitendra.prajapati6443/vizzes)
-### 💡 Looking to Collaborate
-I'm open to projects involving:
-- **Full-Stack Web Developement** - especially projects integrating front-end and back-end technologies
-- **Data Science and Machine Learning**
-- **Data Analytics**
-
-### 📫 How to Reach Me
-- **Email:** jitendra.pra40@gmail.com
-- **Phone:** +91 8707253755
-
-### ⚡ Fun Fact
-I have a unique combination of skills from **Python Full-Stack Web Development** to **Machine Learning**, and I enjoy turning creative ideas into practical solutions.
-
+Hello, I'm Jitendra Prajapati!
+I’m passionate about building scalable backend systems and microservices-based applications that power real-world platforms. With a background in Computer Science and hands-on experience in Java, Spring Boot, and RESTful APIs, I focus on creating secure, high-performance backend solutions. I enjoy working on system design, API security, caching, and event-driven architectures to build reliable software systems.
+________________________________________
+**💻 Technical Skills**
+**Backend Development**
+Java, Spring Boot, Spring MVC, Spring Data JPA, Hibernate, RESTful APIs, Microservices Architecture
+Security & Authentication
+Spring Security, OAuth2, JWT Authentication, Role-Based Access Control
+Spring Cloud & Integration
+Spring Cloud Gateway, Eureka Service Discovery
+**Databases & Caching**
+MySQL, Redis
+Messaging & Event-Driven Systems
+Apache Kafka
+**Testing & API Tools**
+JUnit, Mockito, Postman, Swagger / OpenAPI
+**DevOps & Deployment**
+Docker, CI/CD Pipelines (Jenkins, GitHub Actions), Linux Basics
+**Tools**
+Git, GitHub, Maven, VS Code, IntelliJ IDEA
+________________________________________
+**📖 Certifications**
+•	Fundamentals of Data Analytics – JP Morgan Chase & Nasscom Foundation
+•	Python Essentials 1 – Cisco Networking Academy
+•	Introduction to Oracle: SQL – Infosys Springboard
+•	NumPy and Pandas Python – Infosys Springboard
+(Keep certifications — they still show learning ability, even if domain differs.)
+________________________________________
+**🌱 Currently Learning**
+I am currently enhancing my backend expertise at Ants Skill Varsity, where I am working with Spring Boot, Microservices architecture, API security, and backend system design. This training is strengthening my ability to build scalable, secure, and production-ready backend applications.
+________________________________________
+**🛠️ Projects I’m Proud Of**
+**Doctor Appointment System | Microservices Backend
+Java, Spring Boot, Spring Cloud Gateway, Eureka, OAuth2, JWT, MySQL, Redis, Apache Kafka, Docker**
+•	Developed a microservices-based doctor appointment booking system.
+•	Built independent services for Authentication, Doctor, Patient, Appointment, Slot Management, and Payment.
+•	Implemented OTP-based login using mobile number and email.
+•	Integrated OAuth2 and JWT authentication with refresh token mechanism.
+•	Used API Gateway for centralized routing and security.
+•	Applied Redis caching for frequently accessed data.
+•	Implemented Kafka producers and consumers for appointment and notification events.
+•	Wrote unit tests using JUnit and Mockito.
+•	Containerized services using Docker.
+________________________________________
+**Gym Fitness Management System (Backend Contribution)**
+Java, Spring Boot, MySQL, REST APIs
+•	Developed backend APIs for user registration, login, and membership management.
+•	Implemented authentication and data handling using Spring Boot and MySQL.
+•	Designed REST APIs for attendance tracking and member data management.
+________________________________________
+**💡 Looking to Collaborate On**
+•	Java Spring Boot Backend Projects
+•	Microservices Architecture
+•	API Security & Authentication
+•	Event-Driven Systems using Kafka
+•	Backend performance optimization
+________________________________________
+**📫 How to Reach Me**
+Email: jitendra.pra40@gmail.com
+Phone: +91 8707253755
+________________________________________
+**⚡ Fun Fact**
+I enjoy designing backend systems that run behind the scenes — the part of software users don’t see but rely on every day.
