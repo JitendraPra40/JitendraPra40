@@ -19,13 +19,6 @@ Docker, CI/CD Pipelines (Jenkins, GitHub Actions), Linux Basics
 **Tools**
 Git, GitHub, Maven, VS Code, IntelliJ IDEA
 ________________________________________
-**📖 Certifications**
-•	Fundamentals of Data Analytics – JP Morgan Chase & Nasscom Foundation
-•	Python Essentials 1 – Cisco Networking Academy
-•	Introduction to Oracle: SQL – Infosys Springboard
-•	NumPy and Pandas Python – Infosys Springboard
-(Keep certifications — they still show learning ability, even if domain differs.)
-________________________________________
 **🌱 Currently Learning**
 I am currently enhancing my backend expertise at Ants Skill Varsity, where I am working with Spring Boot, Microservices architecture, API security, and backend system design. This training is strengthening my ability to build scalable, secure, and production-ready backend applications.
 ________________________________________
